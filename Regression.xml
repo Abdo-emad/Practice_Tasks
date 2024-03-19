@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite1" verbose="1">
+    <test name="Regression1">
+        <classes>
+            <class name="LoginTest">
+             <!--   <methods>
+                    <include name=""/>            //Steps to Create TestNG File 1-open File >> setting >> download testng plugin
+                    <exclude name=""></exclude> //click on project name >> create file "testng.xml" then enter testng documentation file then get testng file content
+                </methods>-->
+            </class>
+
+     
+        </classes>
+    </test>
+</suite>
